@@ -1,0 +1,58 @@
+.h1 {
+  text-transform: uppercase;
+}
+
+.list {
+  li {
+    color: red;
+    font-size: 16px;
+    font-style: italic;
+    background-color: yellow;
+  }
+  border: 1px, solid, red;
+}
+
+#h1 {
+  color: green;
+}
+
+a[href$=".pdf"] {
+  color: green;
+  font-style: italic;
+}
+
+a {
+  color: violet;
+  text-decoration: none;
+}
+
+.li2 {
+  text-transform: uppercase;
+}
+
+p {
+  a {
+    color: magenta;
+    background-color: mistyrose;
+  }
+}
+.bold {
+  font-weight: bold;
+  span {
+    text-transform: uppercase;
+  }
+}
+
+.right-align_border {
+  text-align: right;
+  font-size: 20px;
+  border: 1px, solid blue;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.span {
+  background-color: red;
+}
